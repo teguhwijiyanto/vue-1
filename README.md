@@ -1,4 +1,4 @@
-# vue3_composition_api
+# vue3_api_responsive_css
 
 ## Project setup
 ```
